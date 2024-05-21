@@ -3,8 +3,10 @@ The purpose of this repo is to create structure towards learning leetcode style 
 
 # Getting Started
 
-Create a leetcode account here: https://leetcode.com/accounts/signup/
+## Sign up for leetcode
+Sign up here: https://leetcode.com/accounts/signup/
 
+## Run the jupyter notebook locally
 If you want to follow along, this repo has python notebooks. To run the notebooks locally:
 * `python -m venv /path/to/new/virtual/environment`
 * Source your venv by running source `./bin/activate`
