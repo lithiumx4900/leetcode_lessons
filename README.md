@@ -13,4 +13,5 @@ If you want to follow along, this repo has python notebooks. To run the notebook
 * Then just run `jupyter notebook` - it will open a browser tab with your interactive notebook
 
 # The pillars of leet
+https://excalidraw.com/#json=27DiMT-9A6KZg8RV62cz3,UjSbYhY6604Ktx6B4Fviog
 <img width="1056" alt="Screenshot 2024-05-21 at 9 31 48 AM" src="https://github.com/lithiumx4900/leetcode_lessons/assets/164373360/e2571fbe-3f53-46d9-9f42-a2a2558cc532">
